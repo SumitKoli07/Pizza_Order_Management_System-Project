@@ -1,0 +1,17 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+out/
+classes/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# MySQL connector
+mysql-connector-j-*/
+
+# OS
+.DS_Store
+Thumbs.db
